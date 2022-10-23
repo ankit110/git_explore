@@ -1,4 +1,4 @@
-oneFunction - I have added a very important function here.
+oneFunction - I have added a very very important function here.
 twoFunction - I have added another very important function here.
 
 threeFunction - I have added a unnecessary function here.
@@ -6,3 +6,5 @@ threeFunction - I have added a unnecessary function here.
 
 
 added a chart function in our branch
+
+added a code for log Out.
